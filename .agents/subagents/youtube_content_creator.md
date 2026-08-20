@@ -33,7 +33,8 @@ BGM・環境音・ポモドーロジャンルにおいて、クリック率（CT
 - **メイン文字（デカ文字）**：[例：雨音×ピアノ 2時間]
 - **サブ文字/タイマー表示**：[例：25分×4セット / 25:00]
 - **視覚・レイアウト指示**：[例：暗い雨の窓辺とコーヒーカップ。文字は発光感のある白太字＋黄金の枠線]
-- **イラスト/背景プロンプト案**：[AI画像生成用または検索キーワード案]
+- **イラスト/背景プロンプト案（NanoBanana Pro / Gemini AI Pro用）**：
+  - ※生成用英文プロンプトには、CTR視認性を極大化するため、必ず末尾に【CTR最大化共通ライティングブロック】`cinematic moody lighting, chiaroscuro, high contrast between light and shadow, glowing laptop screen casting a soft illumination on the desk, warm ambient desk lamp with subtle amber glow, cool dark blue muted background, volumetric lighting, ray tracing, shallow depth of field, photorealistic, 8k resolution, quiet luxury aesthetic --ar 16:9` を組み込むこと。
 
 ## 3. タイトル案（3パターン）
 - **パターンA（検索・機能特化）**：[例：【ポモドーロ 2時間】超集中できる雨音×ピアノ BGM｜25分集中+5分休憩 ×4セット 作業用・勉強用]
