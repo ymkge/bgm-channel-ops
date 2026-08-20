@@ -1,0 +1,73 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environment & Secret variables
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# Node.js (If scripts are included)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Temporary & Cache files
+*.tmp
+*.temp
+.cache/
+tmp/
+temp/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large Media Files (Optional: exclude raw video/audio generation outputs)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.flac
+*.aac
