@@ -84,7 +84,9 @@ bgm-channel-ops/
 │       └── youtube_quality_checker.md   # 初期48時間通過率＆品質ダブルチェッカー
 └── docs/                                # 戦略ドキュメント・企画案
     ├── bgm_channel_strategy_2026.md     # 2026年BGMチャンネル全般戦略
-    └── youtube_initial_48h_framework.md # 初期48時間アルゴリズム攻略フレームワーク
+    ├── youtube_initial_48h_framework.md # 初期48時間アルゴリズム攻略フレームワーク
+    ├── illustration_generation_guide.md # 台本連動イラスト＆視覚演出ガイド
+    └── music_generation_strategy.md     # 音源調達・生成AI戦略ガイド
 ```
 
 ---
