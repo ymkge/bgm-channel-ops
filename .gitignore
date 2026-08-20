@@ -71,3 +71,8 @@ temp/
 *.mp3
 *.flac
 *.aac
+
+# Private Production Scripts & Secret Materials
+scripts/
+private_scripts/
+*.script.md
