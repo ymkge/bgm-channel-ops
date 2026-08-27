@@ -89,7 +89,8 @@ bgm-channel-ops/
     ├── illustration_generation_guide.md # 台本連動イラスト＆視覚演出ガイド
     ├── music_generation_strategy.md     # 音源調達・生成AI戦略ガイド
     ├── deepwork_ambient_market_research_2026.md # DeepWorkアンビエント競合調査＆ポジショニング戦略
-    └── global_deepwork_seamless_strategy_2026.md # 英語圏特化 1-2時間シームレスDeepWork成長戦略
+    ├── global_deepwork_seamless_strategy_2026.md # 英語圏特化 1-2時間シームレスDeepWork成長戦略
+    └── tool_stack_evaluation_2026.md    # 【ツール構成評価】NanoBanana × Stable Audio 比較検証
 └── scripts/                             # 【非公開】ローカル制作台本 (.gitignore対象)
 ```
 
