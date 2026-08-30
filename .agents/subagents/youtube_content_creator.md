@@ -34,7 +34,8 @@ BGM・環境音・ポモドーロジャンルにおいて、クリック率（CT
 - **サブ文字/タイマー表示**：[例：25分×4セット / 25:00]
 - **視覚・レイアウト指示**：[例：暗い雨の窓辺とコーヒーカップ。文字は発光感のある白太字＋黄金の枠線]
 - **イラスト/背景プロンプト案（NanoBanana Pro / Gemini AI Pro用）**：
-  - ※生成用英文プロンプトには、CTR視認性を極大化するため、必ず末尾に【CTR最大化共通ライティングブロック】`cinematic moody lighting, chiaroscuro, high contrast between light and shadow, glowing laptop screen casting a soft illumination on the desk, warm ambient desk lamp with subtle amber glow, cool dark blue muted background, volumetric lighting, ray tracing, shallow depth of field, photorealistic, 8k resolution, quiet luxury aesthetic --ar 16:9` を組み込むこと。
+  - ※生成用英文プロンプトは、**CEO・エグゼクティブが利用する誰もが憧れる高級事務所・ワークスペース・寝室・ラウンジ**（大開口パノラマ窓から見える雨の森林/夕暮れの海/大都市夜景、ダークウッド、間接照明、Quiet Luxury）をベースにし、中央または上部にDaVinci Resolveでの文字後付け用ネガティブスペースを確保すること。
+  - 末尾には必ず【CEO/エグゼクティブCTR最大化共通ライティングブロック】`ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork --ar 16:9` を組み込むこと。
 
 ## 3. タイトル案（3パターン）
 - **パターンA（検索・機能特化）**：[例：【ポモドーロ 2時間】超集中できる雨音×ピアノ BGM｜25分集中+5分休憩 ×4セット 作業用・勉強用]
