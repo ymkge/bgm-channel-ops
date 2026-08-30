@@ -68,16 +68,17 @@ DaVinci Resolveで中央や上部にシャープな英字タイトル（`CEO WOR
 NanoBanana Pro（Gemini AI Pro / Imagen 3）に入力する英文プロンプトは、以下の構成で構築します。
 
 ```text
-[写真スタイル・画質（Architectural Digest photorealistic）]
+[単一画像・バリエーション禁止制約 (Single image only, no color variations)]
++ [写真スタイル・画質（Architectural Digest photorealistic）]
 + [CEO空間の指定（モダンオフィス / ペントハウスラウンジ / 高級寝室）]
 + [大開口パノラマ窓 ＆ 絶景（雨の森林・滝 / 夕暮れオーシャン / 都市夜景）]
 + [高級家具・ディテール（ウォールナット机 / 高級チェア / デュアルモニター / 湯気）]
 + [文字後付け用ネガティブスペース指定（clean negative space in the center）]
-+ [CEO共通ライティングブロック（間接照明、Ray-tracing、Chiaroscuro）]
++ [CEO共通ライティングブロック（単一の照明・配色固定、Ray-tracing、Chiaroscuro）]
 ```
 
-### 🏆 【CEO/エグゼクティブCTR最大化共通ライティングブロック】
-> `ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork --ar 16:9`
+### 🏆 【CEO/エグゼクティブCTR最大化共通ライティングブロック（1枚限定版）】
+> `ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork, generate strictly only 1 single full-frame 16:9 image, no variations, no multiple color palettes, no grid, no contact sheet --ar 16:9`
 
 ---
 
