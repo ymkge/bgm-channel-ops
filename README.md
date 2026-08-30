@@ -82,7 +82,8 @@ bgm-channel-ops/
 │       ├── strategy_reviewer.md         # 戦略＆リスク検証アドバイザー
 │       ├── youtube_content_creator.md   # 企画・サムネ・タイトル・台本プロデューサー
 │       ├── youtube_quality_checker.md   # 初期48時間通過率＆品質ダブルチェッカー
-│       └── youtube_growth_consultant.md # YouTube競合分析＆成長戦略コンサルタント
+│       ├── youtube_growth_consultant.md # YouTube競合分析＆成長戦略コンサルタント
+│       └── visual_prompt_director.md   # CTR＆情緒最大化 画像プロンプト専門ディレクター
 └── docs/                                # 戦略ドキュメント・ナレッジ
     ├── bgm_channel_strategy_2026.md     # 2026年BGMチャンネル全般戦略
     ├── youtube_initial_48h_framework.md # 初期48時間アルゴリズム攻略フレームワーク
@@ -91,21 +92,24 @@ bgm-channel-ops/
     ├── deepwork_ambient_market_research_2026.md # DeepWorkアンビエント競合調査＆ポジショニング戦略
     ├── global_deepwork_seamless_strategy_2026.md # 英語圏特化 1-2時間シームレスDeepWork成長戦略
     ├── tool_stack_evaluation_2026.md    # 【ツール構成評価】NanoBanana × Stable Audio 比較検証
-    └── batch_production_and_scheduling_strategy_2026.md # 30本先行バッチ生産＆英語圏予約投稿運用
+    ├── batch_production_and_scheduling_strategy_2026.md # 30本先行バッチ生産＆英語圏予約投稿運用
+    └── visual_prompt_enhancement_framework.md # 【CTR最大化＆情緒刺激】画像プロンプト設計論
 └── scripts/                             # 【非公開】ローカル制作台本 (.gitignore対象)
 ```
 
 ---
 
-## 🤖 専門サブエージェント体制（企画制作・品質保証・競合分析）
+## 🤖 専門サブエージェント体制（企画制作・品質保証・競合分析・画像ディレクション）
 
-本リポジトリでは `.agents/` 内に定義された**専門サブエージェント体制**により、企画から動画構成、品質保証、競合ポジショニングまでを最高精度で実施します。
+本リポジトリでは `.agents/` 内に定義された**専門サブエージェント体制**により、企画から動画構成、品質保証、競合ポジショニング、画像プロンプトの極大化までを最高精度で実施します。
 
-1. 📊 **`youtube-growth-consultant`（競合分析＆成長戦略コンサルタント）**
+1. 🎨 **`visual-prompt-director`（ビジュアルプロンプト＆アートディレクター）**
+   * スマホ画面でのスクロールストップ力（CTR）、知的孤独への憧れ・Quiet Luxuryな情緒を満たすNanoBanana Pro専用プロンプトを設計・改善。
+2. 📊 **`youtube-growth-consultant`（競合分析＆成長戦略コンサルタント）**
    * 競合密度の判別、巨頭チャンネルの弱点・隙間の抽出、新規参入で大幅に伸ばすためのポジション策定を実施。
-2. 🎨 **`youtube-content-creator`（企画・制作プロデューサー）**
-   * スマホ最適化された巨大文字サムネイル選定、ターゲット悩みの言語化タイトル、AI画像生成プロンプト、動画の台本（ポモドーロ音源タイムライン・演出）を策定。
-3. 🛡️ **`youtube-quality-checker`（ダブルチェック・品質チェッカー）**
+3. 🎬 **`youtube-content-creator`（企画・制作プロデューサー）**
+   * スマホ最適化された巨大文字サムネイル選定、ターゲット悩みの言語化タイトル、AI画像・音楽生成プロンプト、動画の台本を策定。
+4. 🛡️ **`youtube-quality-checker`（ダブルチェック・品質チェッカー）**
    * 初期48時間テスト通過確率（長尺BGM基準推定CTR）、視聴維持率、YouTube「重複コンテンツ」ポリシー適合性を客観的に評価・スコアリングし、確度を高める修正指示を発行。
-4. 🔍 **`strategy-reviewer`（戦略＆総合リスク評価）**
+5. 🔍 **`strategy-reviewer`（戦略＆総合リスク評価）**
    * 企画全体・ドキュメントの権利関係・長期ブランディングリスクを検証。
