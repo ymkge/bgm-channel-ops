@@ -93,7 +93,8 @@ bgm-channel-ops/
     ├── global_deepwork_seamless_strategy_2026.md # 英語圏特化 1-2時間シームレスDeepWork成長戦略
     ├── tool_stack_evaluation_2026.md    # 【ツール構成評価】NanoBanana × Stable Audio 比較検証
     ├── batch_production_and_scheduling_strategy_2026.md # 30本先行バッチ生産＆英語圏予約投稿運用
-    └── visual_prompt_enhancement_framework.md # 【CTR最大化＆情緒刺激】画像プロンプト設計論
+    ├── visual_prompt_enhancement_framework.md # 【CTR最大化＆情緒刺激】画像プロンプト設計論
+    └── high_ctr_title_psychology_framework.md # 【超高CTRタイトル工学】先頭フック＆心理トリガー
 └── scripts/                             # 【非公開】ローカル制作台本 (.gitignore対象)
 ```
 
