@@ -38,9 +38,14 @@ BGM・環境音・ポモドーロジャンルにおいて、クリック率（CT
   - 末尾には必ず【CEO/エグゼクティブCTR最大化共通ライティングブロック（1枚限定版）】`ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork, generate strictly only 1 single full-frame 16:9 image, no variations, no multiple color palettes, no grid, no contact sheet --ar 16:9` を組み込むこと。
 
 ## 3. タイトル案（3パターン）
-- **パターンA（検索・機能特化）**：[例：【ポモドーロ 2時間】超集中できる雨音×ピアノ BGM｜25分集中+5分休憩 ×4セット 作業用・勉強用]
-- **パターンB（感情・悩みの言語化）**：[例：考えが散らかる夜は、雨音と25分だけ｜2時間ポモドーロタイマー 勉強用BGM]
-- **パターンC（世界観・ノスタルジー）**：[例：【作業用BGM】深夜の雨と静かな図書室｜2時間ポモドーロタイマー付き 集中BGM]
+※**チャンネル別の適用ルール**：
+- 🇯🇵 **「ポモスタ（日本国内向け）」の制作時は、全て【Type A: 大衆直撃・ゾーン没入型】（口語・欲望直撃ワード）をベースに3パターン作成すること**。
+- 🌐 **「海外・英語圏向けチャンネル」の制作時は、【Type B: Quiet Luxury / 知的特化型】または指定のターゲットスタイルに切り替えること**。
+
+【ポモスタ（国内向け）用 出力例】：
+- **パターンA（ゾーン突入直撃）**：[例：【かなりゾーンに入る】激しい雨音と静かなピアノで深く潜る｜作業用BGM 25分ポモドーロ 🌧️]
+- **パターンB（劇的集中・効率直撃）**：[例：【驚くほど集中できる】雨の暗がりラウンジと哀愁のピアノ｜勉強・作業用BGM 2時間タイマー ☕]
+- **パターンC（即効着手・スイッチ直撃）**：[例：【一瞬で集中モードへ】雨音とソロピアノが雑念を消し去る｜超集中作業用BGM ポモドーロ 🌙]
 
 ## 4. 音楽生成プロンプト仕様書（Stable Audio / Udio / Soundraw用）
 - **音楽AIコピペ用プロンプト（英文）**：
