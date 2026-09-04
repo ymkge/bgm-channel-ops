@@ -34,7 +34,8 @@ BGM・環境音・ポモドーロジャンルにおいて、クリック率（CT
 - **サブ文字/タイマー表示**：[例：25分×4セット / 25:00]
 - **視覚・レイアウト指示**：[例：暗い雨の窓辺とコーヒーカップ。文字は発光感のある白太字＋黄金の枠線]
 - **イラスト/背景プロンプト案（NanoBanana Pro / Gemini AI Pro用）**：
-  - ※生成用英文プロンプトは、**CEO・エグゼクティブが利用する誰もが憧れる高級事務所・ワークスペース・寝室・ラウンジ**（大開口パノラマ窓から見える雨の森林/夕暮れの海/大都市夜景、ダークウッド、間接照明、Quiet Luxury）をベースにし、中央または上部にDaVinci Resolveでの文字後付け用ネガティブスペースを確保すること。
+  - ※生成用英文プロンプトは、**CEO・エグゼクティブが利用する誰もが憧れる高級空間**（大開口パノラマ窓、ダークウッド、間接照明、Quiet Luxury）をベースにし、中央または上部にDaVinci Resolveでの文字後付け用ネガティブスペースを確保すること。
+  - ※**ポモスタ（国内向け）制作時の必須ルール**：カフェ内装よりも**【窓の外の自然（海、山、川、桜、新緑、雨の森林など）が画面の70%以上を占める超大型パノラマ構図】**（`massive floor-to-ceiling frameless panoramic glass window taking up 70% of the entire frame`）にし、室内デスクは手前30%にコンパクトに配置すること。
   - 末尾には必ず【CEO/エグゼクティブCTR最大化共通ライティングブロック（1枚限定版）】`ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork, generate strictly only 1 single full-frame 16:9 image, no variations, no multiple color palettes, no grid, no contact sheet --ar 16:9` を組み込むこと。
 
 ## 3. タイトル案（3パターン）
