@@ -66,13 +66,20 @@ YouTubeで何百〜何千万回と再生されるトップ層のDeep Workサム�
 
 ### 🎯 プロンプトへの組み込み構文（ポモスタ専用）
 * `massive floor-to-ceiling frameless panoramic glass window taking up 70% of the entire frame, sharp and crystal clear focus on the breathtaking outdoor natural scenery [海/森/川/桜 etc.]`
-* `cozy minimalist wooden workspace subtly framed in the bottom 30% foreground with a sleek desk, laptop, and steaming coffee mug`
+* `cozy minimalist wooden workspace subtly framed in the bottom 30% foreground with a sleek desk, laptop, and a ceramic cup of black coffee without steam (no steam, no smoke)`
 
 ---
 
+## ☕ 3. DaVinci Resolve後付け編集用【湯気（Steam）完全排除ルール】
+
+DaVinci Resolveの動画編集（Fusion等）において、**微かな湯気のアニメーションエフェクトを自然に後付け合成するため、生成画像（静止画）側には一切の湯気・煙を描写させない**ルールを徹底します。
+
+* **プロンプト指定**: `a cup of black coffee without steam (no steam, no smoke)`
+* **制約ブロック**: `no steam, no smoke` をライティング共通ブロック末尾に必ず組み込む。
+
 ---
 
-## ⚡ 3. NanoBanana Pro特化型 CEO空間プロンプト黄金テンプレート
+## ⚡ 4. NanoBanana Pro特化型 CEO空間プロンプト黄金テンプレート
 
 NanoBanana Pro（Gemini AI Pro / Imagen 3）に入力する英文プロンプトは、以下の構成で構築します。
 
@@ -81,13 +88,13 @@ NanoBanana Pro（Gemini AI Pro / Imagen 3）に入力する英文プロンプト
 + [写真スタイル・画質（Architectural Digest photorealistic）]
 + [CEO空間の指定（モダンオフィス / ペントハウスラウンジ / 高級寝室）]
 + [大開口パノラマ窓 ＆ 絶景（雨の森林・滝 / 夕暮れオーシャン / 都市夜景）]
-+ [高級家具・ディテール（ウォールナット机 / 高級チェア / デュアルモニター / 湯気）]
++ [高級家具・ディテール（ウォールナット机 / 高級チェア / デュアルモニター / 湯気なしコーヒー）]
 + [文字後付け用ネガティブスペース指定（clean negative space in the center）]
-+ [CEO共通ライティングブロック（単一の照明・配色固定、Ray-tracing、Chiaroscuro）]
++ [CEO共通ライティングブロック（単一の照明・配色固定、Ray-tracing、湯気禁止、Chiaroscuro）]
 ```
 
-### 🏆 【CEO/エグゼクティブCTR最大化共通ライティングブロック（1枚限定版）】
-> `ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork, generate strictly only 1 single full-frame 16:9 image, no variations, no multiple color palettes, no grid, no contact sheet --ar 16:9`
+### 🏆 【CEO/エグゼクティブCTR最大化共通ライティングブロック（1枚限定・湯気なし版）】
+> `ultra-realistic architectural interior photography, Architectural Digest style, quiet luxury aesthetic, cinematic moody lighting, chiaroscuro, warm amber ambient cove lighting, soft glowing screens, floor-to-ceiling panoramic glass windows, high contrast between cozy warm interior and dramatic moody outdoor scenery, ray tracing reflections, volumetric atmosphere, ultra-detailed textures, 8k resolution, photorealistic masterwork, generate strictly only 1 single full-frame 16:9 image, no variations, no multiple color palettes, no grid, no contact sheet, no steam, no smoke --ar 16:9`
 
 ---
 
