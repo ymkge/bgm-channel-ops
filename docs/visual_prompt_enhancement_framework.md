@@ -45,28 +45,17 @@ YouTubeで何百〜何千万回と再生されるトップ層のDeep Workサム�
 
 ---
 
-## 🌿 2. 【ポモスタ専用ルール】自然景観 70:30 ドミナント構図（Nature-Dominant Composition）
+## 🌿 2. 【ポモスタ専用ルール】Focus ＆ Break 構図黄金比率
 
 40本の動画実証データに基づき、**国内向け「ポモスタ」では、カフェ内装よりも【窓の外の自然（海、山、川、桜、新緑、紅葉など）】が画面の大部分を占める構図**が最も高いCTRと再生数を記録します。
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             ポモスタ専用：【自然景観 70% × 室内デスク 30%】の黄金比率 │
-├────────────────────────────────────────────────────────────────────────┤
-│ 【 画面の70%：圧倒的な大自然のパノラマ絶景 】                         │
-│  ・床から天井までの超大型フレームレス・パノラマガラス窓                │
-│  ・見応えのある海、深い森林、小川、満開の桜、雨に煙る山並みを鮮明描写 │
-│                                                                        │
-│ ───────────────────────────────────────────────────────────────────────│
-│ 【 画面の30%（手前）：洗練された室内ワークスペース 】                  │
-│  ・手前にコンパクトに配置された無垢材デスク、薄型PC/タブレット、湯気   │
-│  ・猫モチーフの置物（Focus）/ 窓辺のリアル猫（Break）                  │
-└────────────────────────────────────────────────────────────────────────┘
-```
+### 🖼️ ① Focus（集中シーン）：【自然景観 70% × 室内デスク 30%】
+* **構図**: 超大型パノラマ窓の外に自然が70%鮮明に広がり、手前30%に無垢材デスク、PC/タブレット、湯気なしコーヒー、猫置物（モチーフ）をコンパクトに配置。
+* **プロンプト指定**: `massive floor-to-ceiling frameless panoramic glass window taking up 70% of the entire frame, sharp and crystal clear focus on the breathtaking outdoor natural scenery [海/森/川/桜 etc.], cozy minimalist wooden workspace subtly framed in the bottom 30% foreground with a sleek desk, laptop, and a ceramic cup of black coffee without steam (no steam, no smoke)`
 
-### 🎯 プロンプトへの組み込み構文（ポモスタ専用）
-* `massive floor-to-ceiling frameless panoramic glass window taking up 70% of the entire frame, sharp and crystal clear focus on the breathtaking outdoor natural scenery [海/森/川/桜 etc.]`
-* `cozy minimalist wooden workspace subtly framed in the bottom 30% foreground with a sleek desk, laptop, and a ceramic cup of black coffee without steam (no steam, no smoke)`
+### ☕ ② Break（休憩シーン）：【猫越しPOV × 自然絶景 85% ドミナント構図】
+* **構図（一人称視点 POV）**: Focusよりも**さらに外を強調（画面の85%以上が自然絶景）**。リスナーのすぐ目の前（手前の窓辺やテラス）に**リアルな猫が大きく映っており、そのすぐ後ろの自分視点（POV）から、猫越しに雄大な自然や美しい植物が視界いっぱいに広がる**癒やしのリフレッシュ構図。
+* **プロンプト指定**: `first-person point of view (POV) looking from just behind a calm, adorable fluffy real cat sitting prominently in the close foreground on a wooden windowsill/terrace ledge, the cat gently gazing out at the vast, breathtaking natural scenery occupying over 85% of the frame [海/森/山/夕焼け/桜 etc.], serene outdoor nature filling almost the entire view, no indoor furniture, peaceful and deeply restorative atmosphere`
 
 ---
 

@@ -23,8 +23,9 @@ description: YouTubeのCTRを最大化するため、人の目を一瞬で惹き
    * 雨粒がつたうガラス窓、淹れたてエスプレッソの湯気、モニターの淡い発光、木目の反射光（Ray-traced reflections）、ボケ味（Bokeh）。
 4. **【DaVinci Resolve文字後付け用ネガティブスペース設計（Typography Space Engineering）】**
    * 中央または上部に洗練された英文字タイトル（`CEO WORK`, `DEEP WORK` 等）を配置した際に最もクリアに際立つよう、画面中央〜上部の明暗・抜け感を計算した構図。
-5. **【🇯🇵 ポモスタ専用ルール：自然景観 70:30 ドミナント構図】**
-   * ポモスタ制作時は、カフェ内装よりも**【窓の外の自然景観（海、山、川、桜、新緑、雨の森林など）が画面の70%以上を占める超大型パノラマ構図】**を適用すること。室内デスクは手前30%にコンパクトに収める。
+5. **【🇯🇵 ポモスタ専用ルール：Focus 70% ＆ Break 85%（猫POV）構図】**
+   * **Focus画像**: カフェ内装よりも【窓の外の自然（海、山、川、桜、新緑、雨の森林など）が画面の70%以上を占める構図】。室内デスクは手前30%にコンパクトに配置。
+   * **Break画像**: Focusよりもさらに外を強調（**画面の85%以上が自然絶景**）。手前に**リアルな猫が大きく映り、そのすぐ後ろの自分視点（POV）から猫越しに雄大な自然・植物を見渡す**圧倒的リフレッシュ構図（`first-person POV looking from just behind a real cat sitting in the close foreground, gazing at breathtaking nature occupying over 85% of the frame`）。
 6. **【DaVinci Resolve後付け編集用：湯気（Steam）完全排除ルール】**
    * 動画編集時にDaVinci Resolveで湯気を後付けアニメーション合成するため、**画像プロンプトには一切の湯気・煙を描写させない（`a ceramic cup of coffee without steam (no steam, no smoke)`）**こと。末尾の共通ライティングブロックにも `no steam, no smoke` を含める。
 
