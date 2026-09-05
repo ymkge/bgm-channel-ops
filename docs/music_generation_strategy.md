@@ -37,3 +37,30 @@
    * DaVinciのEQで高音域をカット（ローパス）することで、音の主張を抑えた「超集中モード用BGM」へ加工。
 3. **テンポ・ピッチ変更**：
    * テンポを3〜5%落とすことで、より落ち着いた「夜用・睡眠用BGM」へ調整。
+
+---
+
+## 4. 🇯🇵 ポモスタ専用 集中音響設計プロンプトフレームワーク
+
+国内向けポモドーロチャンネル「ポモスタ」では、リスナーの認知負荷をゼロにし、深い集中を持続させるための**「3大集中音響原則」**を音楽生成プロンプトおよび音源ミックスに必須適用します。
+
+> ※ 注意：本仕様は国内向け「ポモスタ（ポモドーロタイマー形式）」専用です。海外向け新チャンネル（長尺シームレス・Tape Loop / Minimal Drone）とは明確に区別して運用します。
+
+### ① 3大集中音響原則
+1. **脳内ワーキングメモリの保護（言語野フリー）**:
+   * メロディの主張を抑えたアンビエントピアノ／穏やかなコード進行を採用し、読書・プログラミング・執筆時のテキスト処理（言語野）を邪魔しない。
+2. **1/fゆらぎ自然音と鳥のさえずり（環境マスキング ＆ バイオフィリア安心シグナル）**:
+   * 木々の葉音、雨音、風などの1/fゆらぎ成分で突発ノイズを遮断。さらに野鳥のさえずりをミックスすることで「本能的な安心感（危険がないシグナル）」を与え、脳の緊張を緩和する。
+3. **ポモドーロ・テクニックによる持続集中（25分/5分メリハリ設計）**:
+   * 【Focus（25分）】: 催眠的で安定した穏やかな没入トラック。
+   * 【Break（5分）】: 心地よいリフレッシュ・休息をもたらす穏やかな音響。
+
+### ② 音楽生成AI用プロンプト標準テンプレート（Suno / Udio / Stable Audio）
+
+```text
+Prompt:
+minimalist felt piano, ambient soundscape, calm peaceful tempo 60-70 bpm, soft repetitive chords, gentle forest birdsong in background, warm analog texture, deep focus, lo-fi organic, high fidelity
+
+Negative Prompt:
+vocals, singing, lyrics, catchy pop melody, intense drums, heavy bass drop, sudden tempo change, dramatic brass, loud sharp transients, EDM, distortion
+```
