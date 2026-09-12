@@ -14,8 +14,8 @@
    - スクロールを止める直球の欲望解体コピー ＋ タイトル同期 ＋ 視覚構成を出力する「サムネイル作成プロンプト」。
 4. **[04_video_structure_agent.md](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ai_agents/04_video_structure_agent.md)**:
    - 平均視聴時間30分を狙う長尺/タイマー構成 ＋ コメント欄を活性化させる「エンゲージメント設計プロンプト」。
-5. **[05_video_metadata_packager_agent.md](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ai_agents/05_video_metadata_packager_agent.md)**:
-   - 【統合運用マスター】サムネ3案、タイトル日・英3案、日・英概要欄、メタタグ、固定コメントを最高峰のアルゴリズム最適化で一括出力する「動画公開パッケージ自動生成エージェント」。最新ナレッジのRAG参照＆更新機能付き。
+5. **[05_pomosta_metadata_packager_agent.md](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ai_agents/05_pomosta_metadata_packager_agent.md)** (Issue #14):
+   - 【ポモスタ専用マスター】サムネ3案、タイトル日・英3案、日・英概要欄、メタタグ、固定コメントを完全定型フォーマットで一括生成する「ポモスタ専用エージェント（`pomosta-metadata-producer`）」。RAG参照・自律更新機能付き。
 
 ---
 
