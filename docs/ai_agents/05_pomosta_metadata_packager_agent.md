@@ -95,10 +95,13 @@
 ---
 
 ## 2. タイトル設計（日・英：計3パターン）
-※先頭15文字に「【ゾーンに入る】」「【ポモドーロ2時間】」等のメガワード＋ベネフィットを確定。時間軸ワード完全排除。
+※【絶対NG規則】サムネイル1行目のメインコピーとタイトルの先頭15文字を「完全重複（オウム返し）」させてはならない。
+※【役割分担の黄金律】サムネイル＝「情景・情緒・空間（引き込み）」 × タイトル先頭15文字＝「実利・行動結果・ペイン解消（刈り取り）」で二重トラップを形成すること。サムネイルの世界観ワードはタイトル中盤で回収しSEOを担保する。
+※先頭15文字に「【やる事が片付く】」「【ゾーンに入る】」「【やる気ゼロでも】」等のメガワード＋ベネフィットを確定。時間軸ワード完全排除。
 
-### 【パターン1：メイン推奨案】アルゴリズム直球×ペイン解消型（本命）
-- 日本語: 【ゾーンに入る】[自然音名]とピアノ｜[ベネフィット約束] [作業・勉強用BGM] 25分ポモドーロタイマー [絵文字]
+### 【パターン1：メイン推奨案】アルゴリズム直球×実利ベネフィット型（本命）
+- 日本語: 【[実利ベネフィット約束]】[自然音名]とピアノ｜[サムネの世界観情景]で集中する作業・勉強用BGM 25分ポモドーロタイマー [絵文字]
+  - （例: サムネが「隠れ家で集中」の場合 ➔ `【やる事が片付く】雨音＆ピアノ☔ 隠れ家で集中する作業用BGM｜25分ポモドーロタイマー`）
 - 英語: [2-Hour Pomodoro] Deep Focus in [場所・情景] | 25/5 Timer with [音名] & Gentle Piano [絵文字]
 
 ### 【パターン2：差し替え案1】メガワードSEO・長時間作業型（検索インプレッション最大化）
@@ -197,11 +200,14 @@
 
 ### 参照必須ナレッジ（RAG）
 1. [`docs/thumbnail_high_ctr_rules_and_pitfalls.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/thumbnail_high_ctr_rules_and_pitfalls.md):
-   - 時間軸ワードの罠、大衆デカ文字と海外No Textの適用マトリクス。
-2. [`docs/ctr_5percent_breakthrough_framework.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ctr_5percent_breakthrough_framework.md):
-   - CTR 5%突破の3大構造改革、UIセーフゾーン、15項目チェックリスト。
-3. [`docs/hit_vs_nomusic_ctr_gap_analysis.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/hit_vs_nomusic_ctr_gap_analysis.md):
+   - 時間軸ワードの罠、大衆デカ文字と海外No Textの適用マトリクス、サムネイルとタイトルの文言被り（完全重複）禁止と役割分担。
+2. [`docs/high_ctr_title_psychology_framework.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/high_ctr_title_psychology_framework.md):
+   - 先頭15文字のフック工学、4大心理トリガー、サムネとタイトルの同一ワード完全被り禁止。
+3. [`docs/ctr_5percent_breakthrough_framework.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ctr_5percent_breakthrough_framework.md):
+   - CTR 5%突破の3大構造改革、UIセーフゾーン、15項目チェックリスト、サムネ・タイトルの同一ワード完全被り禁止。
+4. [`docs/hit_vs_nomusic_ctr_gap_analysis.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/hit_vs_nomusic_ctr_gap_analysis.md):
    - ピアノ版 vs 音楽なし版の構造的要因（75:25、Browse vs Suggested）、同一画像流用時の左下ツインバッジ（🚫音楽なし）差別化ルール。
 
 ### 自律更新（PDCA）プロトコル
 - ユーザーから「今回の動画のCTRは〇%だった」「このコピーは反響が弱かった」といった実測データが報告された場合、本エージェントは直ちに各ドキュメントのChangelog（更新履歴）を更新し、出力テンプレートのコピーやアルゴリズム数値をブラッシュアップする。
+
