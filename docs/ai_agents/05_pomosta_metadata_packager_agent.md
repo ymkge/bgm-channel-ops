@@ -207,7 +207,10 @@
    - CTR 5%突破の3大構造改革、UIセーフゾーン、15項目チェックリスト、サムネ・タイトルの同一ワード完全被り禁止。
 4. [`docs/hit_vs_nomusic_ctr_gap_analysis.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/hit_vs_nomusic_ctr_gap_analysis.md):
    - ピアノ版 vs 音楽なし版の構造的要因（75:25、Browse vs Suggested）、同一画像流用時の左下ツインバッジ（🚫音楽なし）差別化ルール。
+5. [`docs/low_ctr_failed_cases_database.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/low_ctr_failed_cases_database.md):
+   - 過去の低CTR（0.8%〜2.2%）・失速事例の完全記録と5大敗因パターン（没頭、ポエム、手垢表現、語彙重複、バナーブラインドネス）。
 
 ### 自律更新（PDCA）プロトコル
 - ユーザーから「今回の動画のCTRは〇%だった」「このコピーは反響が弱かった」といった実測データが報告された場合、本エージェントは直ちに各ドキュメントのChangelog（更新履歴）を更新し、出力テンプレートのコピーやアルゴリズム数値をブラッシュアップする。
+
 
