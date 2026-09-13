@@ -157,5 +157,13 @@
 過去に公開されCTR 0.8%〜2.2%で失速した具体的なサムネイル＋タイトル案、およびアナリティクス実測値の詳細解剖は以下を参照のこと：
 👉 [`docs/low_ctr_failed_cases_database.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/low_ctr_failed_cases_database.md)
 
+---
+
+## 9. サムネイル絶対黄金律「気持ち代弁・実利」高CTRキラーワード集（全20選・RAG必読参照）
+
+背景画像が情景（カフェ、雨、森等）を語るため、文字には情景ワードを一切入れず、100%「リスナーの内言（気持ち代弁）」または「具体的実利（タスク解決）」で構成する7〜10文字の勝ちパターン辞書（4大心理トリガー別20選）は以下を参照のこと：
+👉 [`docs/thumbnail_killer_words_database.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/thumbnail_killer_words_database.md)
+
+
 
 

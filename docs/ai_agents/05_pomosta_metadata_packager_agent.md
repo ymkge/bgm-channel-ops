@@ -209,6 +209,8 @@
    - ピアノ版 vs 音楽なし版の構造的要因（75:25、Browse vs Suggested）、同一画像流用時の左下ツインバッジ（🚫音楽なし）差別化ルール。
 5. [`docs/low_ctr_failed_cases_database.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/low_ctr_failed_cases_database.md):
    - 過去の低CTR（0.8%〜2.2%）・失速事例の完全記録と5大敗因パターン（没頭、ポエム、手垢表現、語彙重複、バナーブラインドネス）。
+6. [`docs/thumbnail_killer_words_database.md`](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/thumbnail_killer_words_database.md):
+   - サムネイル絶対黄金律「気持ち代弁・実利」高CTRキラーワード集（全20選）。情景ワード完全排除、全角7〜10文字厳格遵守、4大心理トリガー別設計。
 
 ### 自律更新（PDCA）プロトコル
 - ユーザーから「今回の動画のCTRは〇%だった」「このコピーは反響が弱かった」といった実測データが報告された場合、本エージェントは直ちに各ドキュメントのChangelog（更新履歴）を更新し、出力テンプレートのコピーやアルゴリズム数値をブラッシュアップする。
