@@ -16,6 +16,8 @@
    - 平均視聴時間30分を狙う長尺/タイマー構成 ＋ コメント欄を活性化させる「エンゲージメント設計プロンプト」。
 5. **[05_pomosta_metadata_packager_agent.md](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/ai_agents/05_pomosta_metadata_packager_agent.md)** (Issue #14):
    - 【ポモスタ専用マスター】サムネ3案、タイトル日・英3案、日・英概要欄、メタタグ、固定コメントを完全定型フォーマットで一括生成する「ポモスタ専用エージェント（`pomosta-metadata-producer`）」。RAG参照・自律更新機能付き。
+6. **[pomosta_study_visual_prompt_rules.md](file:///Users/ymto/Documents/git/bgm-channel-ops/docs/pomosta_study_visual_prompt_rules.md)** (Issue #20):
+   - 【ポモスタ専用画像規約】ハイエンド書斎・学習図書館（国内・欧米）に特化した画像生成プロンプト＆空間演出完全規約（外部辞書v3.0、自然景観60-70%ドミナント、Break3大シーン、DOF合成感解消、真上視点除外の代替構図2案）。
 
 ---
 
