@@ -76,3 +76,12 @@ temp/
 scripts/
 private_scripts/
 *.script.md
+
+# Private Analytics & Raw Data (Never commit raw metrics to Git)
+data/
+raw_data/
+analytics_raw/
+*.csv
+*.tsv
+*.xlsx
+
