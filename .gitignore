@@ -81,7 +81,9 @@ private_scripts/
 data/
 raw_data/
 analytics_raw/
+private_reports/
 *.csv
 *.tsv
 *.xlsx
+
 
