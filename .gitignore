@@ -86,4 +86,9 @@ private_reports/
 *.tsv
 *.xlsx
 
+# Private Agent Rules & Strategy Documentation (Keep local only for Public repo)
+.agents/
+docs/
+
+
 
